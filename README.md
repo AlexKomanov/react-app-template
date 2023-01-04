@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# React Project Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This template can be used for the React projects. It contains the 
+basic files structure without redundant lines of code and files
+that come as a part of the installtion via create-react-app
+[Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
